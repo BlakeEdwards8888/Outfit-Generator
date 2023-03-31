@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0de7c06f511e13749b22ccc73581fd3f, type: 3}
+  m_Name: ProductImageTable
+  m_EditorClassIdentifier: 
+  imageBindings:
+  - productNumber: 0
+    image: {fileID: 21300000, guid: 46153d211d9f0914887e6d5b91876dc8, type: 3}
+  - productNumber: 1
+    image: {fileID: 21300000, guid: 335077fa8948d5b449c181a885c31cbb, type: 3}
+  - productNumber: 2
+    image: {fileID: 21300000, guid: b18c0554466ee604db8a8db780a6fd66, type: 3}
+  - productNumber: 3
+    image: {fileID: 21300000, guid: 1f2b6cc618a7ec5448428c6f0d14494b, type: 3}
+  - productNumber: 4
+    image: {fileID: 21300000, guid: 6e6a3b6b060bc4149ae4c1824ae69209, type: 3}
+  - productNumber: 5
+    image: {fileID: 21300000, guid: 3532cfa1d8dda3a4e949d35fc8fb5f5f, type: 3}
+  - productNumber: 6
+    image: {fileID: 21300000, guid: e0eb2834bd7125f4d8b157d93ddcd855, type: 3}
+  - productNumber: 7
+    image: {fileID: 21300000, guid: d74e499bfa0c1f347bf06ec5a8da1a24, type: 3}
+  - productNumber: 8
+    image: {fileID: 21300000, guid: bd8a8f4684a535e46977dddd24d9b80b, type: 3}
+  - productNumber: 9
+    image: {fileID: 21300000, guid: cbafbef57242e52489629e1b9ae304d0, type: 3}
+  - productNumber: 10
+    image: {fileID: 21300000, guid: 4f69f80b475309a45b66f12454718318, type: 3}
+  - productNumber: 11
+    image: {fileID: 21300000, guid: ae4c6dbb5ff47ff4cb9170e06a482fa7, type: 3}
+  - productNumber: 12
+    image: {fileID: 21300000, guid: 9c909a522c89b8c4787bf5247f1eb460, type: 3}
+  - productNumber: 13
+    image: {fileID: 21300000, guid: 59d29997723ba184caed077d49120e5c, type: 3}
+  - productNumber: 14
+    image: {fileID: 21300000, guid: 7ce0ad0efd0ba704498376b1f08c8759, type: 3}
+  - productNumber: 15
+    image: {fileID: 21300000, guid: f023ed0a3628d114db3cb20afacee373, type: 3}
+  - productNumber: 16
+    image: {fileID: 21300000, guid: 597ddb87b9a7d554abad87b1f847e18b, type: 3}
+  - productNumber: 17
+    image: {fileID: 21300000, guid: 36b96f8b8f26ddd4f917a311f4217e69, type: 3}
+  - productNumber: 18
+    image: {fileID: 21300000, guid: 0680a8229d13b9242b0b05a8e2cca6c4, type: 3}
+  - productNumber: 19
+    image: {fileID: 21300000, guid: 82dc5206b62c29a4980aa10255000c02, type: 3}
+  - productNumber: 20
+    image: {fileID: 21300000, guid: 29b2a5bc93749614fa70c8464ed6cdce, type: 3}
+  - productNumber: 21
+    image: {fileID: 21300000, guid: e45a5f9899132e8479c467bd8a381d69, type: 3}
+  - productNumber: 22
+    image: {fileID: 21300000, guid: e52dbcc05868b594cbf07aeac573e8bf, type: 3}
+  - productNumber: 23
+    image: {fileID: 21300000, guid: d75f51e7adf4fcc4b921ce8d58c7d4c0, type: 3}
+  - productNumber: 24
+    image: {fileID: 21300000, guid: 43736d101aa04e44e84b4c80c9ad59ee, type: 3}
+  - productNumber: 25
+    image: {fileID: 21300000, guid: e1e129330eb1d5c4eba2670e172e0bff, type: 3}
